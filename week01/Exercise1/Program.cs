@@ -7,11 +7,11 @@ class Program
         Console.WriteLine("Hello World! This is the Exercise1 Project.");
 
         Console.Write("What is your first Name? ");
-        string first_name = Console.ReadLine();
+        string firstName = Console.ReadLine();
 
         Console.Write("What is your Last Name? ");
-        string last_name = Console.ReadLine();
+        string lastName = Console.ReadLine();
 
-        Console.WriteLine($"Your name is {last_name}, {first_name} {last_name}.");
+        Console.WriteLine($"Your name is {lastName}, {firstName} {lastName}.");
     }
 }
