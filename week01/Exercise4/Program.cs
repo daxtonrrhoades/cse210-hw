@@ -15,8 +15,7 @@ class Program
         while (userNumber != 0)
         {
             Console.Write("Enter number: ");
-            string userResponse = Console.ReadLine();
-            userNumber = int.Parse(userResponse);
+            userNumber = int.Parse(Console.ReadLine());
 
             if (userNumber != 0)
             {
