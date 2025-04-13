@@ -1,0 +1,3 @@
+SimpleGoal,Make someone smile,Go out of my way to make someone smile,30,False
+EternalGoal,read my scriptures,Read at least 10 verses of scriptures,50
+ChecklistGoal,complete homework assignments,fully complete multiple homework assignments,100,8,500,0
